@@ -10,4 +10,5 @@ vendor/
 .gcloudignore
 
 # Exclude git history and configuration.
+.git
 .gitignore
